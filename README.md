@@ -1,2 +1,4 @@
 # qa_java
-QA Java Project
+
+
+Testing using mocks, stubs, demonstration of working with inheritance, interfaces and exception tracking using the Mokito and JUnit libraries
